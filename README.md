@@ -1,7 +1,6 @@
 # pygame-music
 A simple Python program that plays mp3 files using the pygame module.
-
-
+<br>
 Instructions:
 
 Play: 1
